@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WOOOOO</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  </head>
+  <body>
+  <h1>
+    I'm on the Internet!!!
+  </h1>
+{% if your_name: %}
+  <p>Welcome, to my page, {{your_name}}!!</p>
+{% else %}
+  <form method="post">
+    <div>
+      <span>Who are you?</span>
+      <input type="text" name="name" placeholder="Enter your name">
+      <input type="submit">
+    </div>
+  </form>
+{% endif %}
+  </body>
+</html>
