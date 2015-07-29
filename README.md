@@ -10,7 +10,9 @@ We are going to deploy our App Engine app to the Internet! You can `git clone` t
   ![Create screen 1](http://i.imgur.com/SME2wp7m.png)
 3. Fill in "Project name" with a name -- it could be any name (does not have to match your project folder).
 
-  As you are filling in the project name, there should be small text under the text box that tells you your project id. In this example, our project id is "magnetic-set-102113". You will have a different project id. **Remember your project id** since we'll need it in a few steps!
+  As you are filling in the project name, there should be small text under the text box that tells you your project id. In this example, our project id is "magnetic-set-102113". You will have a different project id.
+  
+  **Remember your project id** since we'll need it in a few steps!
   
   ![Create screen 2](http://i.imgur.com/ZXVtYHym.png)
 4. Click "Create"
