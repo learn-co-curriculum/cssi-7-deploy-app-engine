@@ -1,6 +1,6 @@
 # Deploying an app engine app
 
-We are going to deploy our App Engine app to the Internet! You can `git clone` the app in this repo to use an an example.
+We are going to deploy our App Engine app to the Internet! You can `git clone` this repo to get an example app to deploy.
 
 ## Instructions
 
