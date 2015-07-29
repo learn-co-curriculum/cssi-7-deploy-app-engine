@@ -6,10 +6,12 @@ We are going to deploy our App Engine app to the Internet! You can `git clone` t
 
 1. Visit the [Google Developers Console](https://console.developers.google.com/project) and click "Create Project"
 2. You should see a screen like this:
-![Create screen 1](http://i.imgur.com/SME2wp7m.png)
+
+  ![Create screen 1](http://i.imgur.com/SME2wp7m.png)
 3. Fill in "Project name" with a name -- it could be any name (does not have to match your project folder).
 
   As you are filling in the project name, there should be small text under the text box that tells you your project id. In this example, our project id is "magnetic-set-102113". You will have a different project id. **Save the project id** since we'll need it in a few steps!
+  
   ![Create screen 2](http://i.imgur.com/ZXVtYHym.png)
 4. Click "Create"
 5. Now go to Terminal, and `cd` into the directory of your App Engine project.
