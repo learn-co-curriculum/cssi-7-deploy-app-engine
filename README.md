@@ -5,7 +5,7 @@ We are going to deploy our App Engine app to the Internet! You can `git clone` t
 ## Instructions
 
 1. Visit the [Google Developers Console](https://console.developers.google.com/project) and click "Create Project"
-2. You should see a screen like this:
+2. You should see a dialog like this:
 
   ![Create screen 1](http://i.imgur.com/SME2wp7m.png)
 3. Fill in "Project name" with a name -- it could be any name (does not have to match your project folder).
