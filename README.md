@@ -52,3 +52,5 @@ vrk-macbookpro2:my-app
 7. Congratulations, your app should now be live and on the internet!
   
   Check out http://**your-app-id**.appspot.com/, e.g. our example is http://magnetic-set-102113.appspot.com/.  
+
+<a href='https://learn.co/lessons/cssi-7-deploy-app-engine' data-visibility='hidden'>View this lesson on Learn.co</a>
