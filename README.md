@@ -53,4 +53,4 @@ vrk-macbookpro2:my-app
   
   Check out http://**your-app-id**.appspot.com/, e.g. our example is http://magnetic-set-102113.appspot.com/.  
 
-<a href='https://learn.co/lessons/cssi-7-deploy-app-engine' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-7-deploy-app-engine' title='Deploying an app engine app'>Deploying an app engine app</a> on Learn.co and start learning to code for free.</p>
